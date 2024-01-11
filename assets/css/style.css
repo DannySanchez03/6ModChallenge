@@ -1,0 +1,117 @@
+.wholePageDiv {
+    display: flex;
+    flex-direction: column;
+
+    font-family: sans-serif;
+}
+
+.weatherDashboard {
+    display: flex;
+    justify-content: center;
+
+    color: white;
+    background-image: linear-gradient(to right, #3c6bc4, rgb(46, 0, 99));
+}
+
+.userInterface {
+    display: flex;
+    flex-direction: row;
+}
+
+.searchColumn {
+    display: flex;
+    flex-direction: column;
+
+    margin: 0px 0px 0px 5px;
+}
+
+.searchColumn h1 {
+    margin: 10px 0 0 0;
+    font-size: 27;
+}
+
+.cityForm {
+    display: flex;
+    flex-direction: column;
+
+    border-bottom: solid 1px;
+    margin: 0px 0px 10px 0px;
+}
+
+.cityForm input {
+    margin: 10px 0px 10px 0px;
+    padding: 15px 20px 5px 20px;
+
+    font-size: 18px;
+    min-width: 250px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+
+.cityForm button {
+    margin: 5px 0px 15px 0px;
+    padding: 5px 20px 10px 20px;
+
+    min-width: 250px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: #6287ca;
+    color: white;
+}
+
+.searchHistory {
+    display: flex;
+    flex-direction: column;
+}
+
+.searchHistory button {
+    margin: 5px 0px 7px 0px;
+    padding: 5px 20px 10px 20px;
+
+    min-width: 250px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: #b3b3b3;
+}
+
+.cityInfo {
+    margin-left: 20px
+}
+
+.currentDay {
+    margin-top: 20px;
+    padding: 0px 0px 0px 5px;
+    border: solid black 1px;
+}
+
+.currentDay h1 {
+    margin-top: 10px;
+}
+
+.weekForecast {
+
+}
+
+.weekForecastOrder {
+    display: flex;
+    flex-direction: row;
+}
+
+.fiveDaysForecast {
+    display: flex;
+    flex-direction: column;
+
+    margin: 0px 25px 0px 0px;
+    padding-bottom: 15px;
+    width: 185px;
+    background-color: #2D3250;
+    color: white;
+}
+
+.fiveDaysForecast h3 {
+    margin: 5px 0px 5px 5px;
+}
+
+.fiveDaysForecast h4 {
+    margin: 10px 0px 10px 5px;
+}
