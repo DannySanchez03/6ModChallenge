@@ -6,7 +6,7 @@ Deployed: https://dannysanchez03.github.io/6ModChallenge/
 
 ## Description
 
-In this Module 6 Challenge we were told to make use of the openweather api to mkae fetch calls to gather weather data for a specific city that the user entered and save the existing cities to the local storage.
+In this Module 6 Challenge we were told to make use of the openweather api to make fetch calls to gather weather data for a specific city that the user entered and save the existing cities to the local storage.
 
 ## Installation
 
