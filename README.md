@@ -1,12 +1,11 @@
-# 6ModChallenge
-Module 6 Challenge
-# Work Day Scheduler Starter Code
+# Weather-API
+6th Challenge
 
-Deployed: https://dannysanchez03.github.io/6ModChallenge/
+Deployed: [here](https://dannysanchez03.github.io/Weather-API/)
 
 ## Description
 
-In this Module 6 Challenge we were told to make use of the openweather api to make fetch calls to gather weather data for a specific city that the user entered and save the existing cities to the local storage.
+In this 6th Challenge I was told to create a Weather API using a Server Side API, https://openweathermap.org/api, my key will expire which means the website will not be able to make any more fetch calls to the server API. I had so much fun actutally figuring how to get this whole website to work, I also had a blast doing the css for it, the html was rather quick and easy to set it up with the css, other than that it was really awesome understanding the object structure that this API returned back to me in JSON format.
 
 ## Installation
 
